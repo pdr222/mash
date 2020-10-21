@@ -1,7 +1,8 @@
 # Created by DXC Aka DuxkHack Aka DuckHack
 # 21.10.2020
 # 11.19
-#i listen twice all gunwest tracks and 50 % of lil krystalll
+# пока я писал жту поеботу я послушал 2 раза все треки ган вест и половину треков лил кристала
+# я не умею нормально програмровать и эта хуйня работает пиздец хуево
 print("Created by DXC")
 osnc = str(input('Raw data: '))
 taskNum = osnc.split("\"taskNum\":")[-1].split('}]')[0]
